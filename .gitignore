@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+/dist
+/build
+/init/index.js
+test2.js
+
+# Environment Variables
+.env
+/.env
+
