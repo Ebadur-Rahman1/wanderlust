@@ -17,7 +17,7 @@ Wanderlust is a Node.js/Express web application for listing and reviewing travel
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/wanderlust.git
+   git clone https://github.com/Ebadur-Rahman1/wanderlust.git
    cd wanderlust
    ```
 
@@ -86,10 +86,5 @@ majorprojects/
 - **"review" or "listing" is required:**  
   Confirm your form structure matches what Joi expects.
 
-## License
-
-MIT
-
----
 
 **Happy coding!**
